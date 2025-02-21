@@ -12,5 +12,6 @@ end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "faraday-retry"
+gem "sassc"
 gem "github-pages", group: :jekyll_plugins
 
